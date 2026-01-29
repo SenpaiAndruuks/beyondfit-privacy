@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beyond Fit - Privacy Policy</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        h1 {
+            color: #007AFF;
+            border-bottom: 2px solid #007AFF;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #555;
+            margin-top: 30px;
+        }
+        .last-updated {
+            color: #666;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for Beyond Fit</h1>
+    <p class="last-updated">Last updated: January 28, 2026</p>
+
+    <h2>Introduction</h2>
+    <p>Beyond Fit ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we handle information in our iOS application.</p>
+
+    <h2>Data Collection</h2>
+    <p>Beyond Fit does NOT collect, store, or transmit any personal data to external servers. All workout data, exercise information, and user preferences are stored locally on your device using iOS's UserDefaults system.</p>
+
+    <h2>Information Stored Locally</h2>
+    <p>The following data is stored only on your device:</p>
+    <ul>
+        <li>Workout routines and exercises</li>
+        <li>Workout history and progress</li>
+        <li>Nutrition tracking data</li>
+        <li>User preferences (units, notifications)</li>
+        <li>Custom exercises you create</li>
+    </ul>
+    <p>This data remains on your device and is never transmitted to us or any third parties.</p>
+
+    <h2>Data Security</h2>
+    <p>Since all data is stored locally on your device, your information is protected by your device's security measures (passcode, Face ID, Touch ID).</p>
+
+    <h2>Third-Party Services</h2>
+    <p>Beyond Fit does not use any third-party analytics, advertising, or tracking services.</p>
+
+    <h2>Children's Privacy</h2>
+    <p>Beyond Fit does not knowingly collect data from children under 13. Our app is designed for users who are at least 13 years old.</p>
+
+    <h2>Changes to This Policy</h2>
+    <p>We may update this Privacy Policy from time to time. Any changes will be reflected with an updated "Last updated" date.</p>
+
+    <h2>Contact Us</h2>
+    <p>If you have questions about this Privacy Policy, please contact us at:<br>
+    <strong>[YOUR EMAIL HERE]</strong></p>
+
+    <p style="margin-top: 40px; color: #999;">© 2026 Beyond Fit</p>
+</body>
+</html>
+```
+
+### **4. Replace Email**
+- Find `[YOUR EMAIL HERE]` in the code
+- Replace it with your actual email address
+
+### **5. Commit the File**
+- Scroll down
+- Click "Commit new file"
+
+### **6. Enable GitHub Pages**
+- Go to repository "Settings" (top menu)
+- Scroll down to "Pages" section (left sidebar)
+- Under "Source", select "Deploy from a branch"
+- Choose "main" branch
+- Click "Save"
+
+### **7. Get Your URL**
+- Wait 1-2 minutes
+- Your privacy policy will be live at:
+```
+  https://[YOUR-GITHUB-USERNAME].github.io/beyondfit-privacy/
